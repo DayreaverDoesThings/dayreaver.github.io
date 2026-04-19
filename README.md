@@ -1,2 +1,2 @@
 # DayReaver Site
-Very barebones for now
+Very barebones (and stupidly coded) for now
